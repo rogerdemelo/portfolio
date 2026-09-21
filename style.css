@@ -1,7 +1,13 @@
 body{
-
+    margin-top: 75px;
     text-align: center;
-    background-color: black;
+    background-color: rgb(29, 28, 28);
     h1 {color: whitesmoke;}
     h3 {color: aliceblue;}
+    
+}
+image{
+    height: 40px;
+    width: 40px;
+
 }
