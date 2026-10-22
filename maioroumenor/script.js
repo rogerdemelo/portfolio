@@ -5,7 +5,7 @@ function maior() {
     numero1 = Number(prompt("digite o primeiro numero:"))
     numero2 = Number(prompt("digite o segundo numero:"))
 
-    if(numero1 >= numero2){
+    if(numero1 > numero2){
         alert("o numero " + numero1 + " é maior que o numero " + numero2 + ", meu chapa ≧◠ᴥ◠≦")
     }
     if(numero1 = numero2){
