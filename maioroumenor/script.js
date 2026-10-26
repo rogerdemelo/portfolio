@@ -8,11 +8,11 @@ function maior() {
     if(numero1 > numero2){
         alert("o numero " + numero1 + " é maior que o numero " + numero2 + ", meu chapa ≧◠ᴥ◠≦")
     }
-    if(numero1 = numero2){
-        alert("Ils sont pareils, chéri ≽^•⩊•^≼")
+    else if(numero1 < numero2){
+        alert("o num numero " + numero1 + " é menor que o numero " + numero2 + " (╥﹏╥)")
     }
     else{
-        alert("o num numero " + numero1 + " é menor que o numero " + numero2 + " (╥﹏╥)")
-
+        
+        alert("Ils sont pareils, chéri ≽^•⩊•^≼")
     }
 }
