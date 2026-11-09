@@ -7,7 +7,8 @@ function aleatorio() {
 
     if(num == 69){
      let mostrar = document.getElementById('resultado');
-    mostrar.innerHTML = `<p>${num} hummm nossamm que delicia... é muito cremoso</p>`   
+    mostrar.innerHTML = `<img src="stickfigure_gang_2.webp" alt=""><p>${num} hummm nossamm que delicia... é muito cremoso</p>` 
+    
     }
     else{
     let mostrar = document.getElementById('resultado');
