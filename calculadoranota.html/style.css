@@ -1,0 +1,16 @@
+.senario{
+    align-items: center;
+    margin: 80px auto;
+    display: flex;
+    
+    height: 300px;
+    text-align: center;
+    background-image: url("algoritmos-privacidad-datos.jpg") ;
+    width: 500px; 
+}
+h1{
+    color: rgb(34, 241, 34);
+}
+body{
+    background-color:rgb(29, 28, 28) ;
+}
