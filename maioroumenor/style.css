@@ -1,0 +1,23 @@
+.senario{
+  border-radius: 34px;
+    border-style:dotted;
+    align-items:center;
+   background-image: url(High_resolution_wallpaper_background_ID_77700701736.webp);
+  margin-top: 140px;  
+  margin-left: 600px;
+    background-size: cover;
+    background-position: center; 
+    
+    
+    height: 400px;
+    width: 600px;
+    text-align:center;  
+}
+body{
+    background-image: url(23b7c7ebdaca837ccc19f781d4e1af2f.jpg);
+    background-size: cover;
+    background-position: center;
+}
+h2{
+    margin-left: 600px;
+}

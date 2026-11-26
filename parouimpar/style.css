@@ -1,0 +1,27 @@
+.cenario{
+    border-radius: 34px;
+    border-style:dotted;
+    align-items: center;
+    margin: 140px auto;
+    background-size: cover;
+    background-position: center;
+    
+    
+    height: 400px;
+    width: 600px;
+    text-align: center;
+    background-image: url(BIRDBRAIN_\(w_OK_Glass\)_feat._Kasane_Teto.webm.jpg);
+}
+h1{
+    color: rgb(232, 232, 89);
+}
+button{
+    margin-top:  65px;
+
+}
+body{
+    background-color: rgb(88, 38, 38);
+}
+h2{
+    color: rgb(88, 38, 38);    
+}
