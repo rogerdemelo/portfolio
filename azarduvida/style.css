@@ -1,0 +1,15 @@
+body{
+    background-image: url(thumb-1920-105962.jpg);
+    text-align: center;
+    background-size: 100%;
+    
+}
+p{
+    color: white;
+}
+img{
+    border-radius: 15%;
+}
+h1{
+    color: white;
+}
